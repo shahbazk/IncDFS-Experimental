@@ -23,7 +23,7 @@ Using the System:
 ================
 1- On random graphs  :: Look at the instructions in tests/IncDFS_Exp.cpp
 2- On real graphs    :: Look at the instructions in tests/IncDFS_Real_Fast.cpp
-3- The corresponding binary files are already compile by 'make exp' command.
+3- The corresponding binary files are already built by 'make exp' command.
 
 
 
